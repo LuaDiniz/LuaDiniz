@@ -1,8 +1,8 @@
-## Oie! Aqui é a Luana Diniz! ♡ 
+## Oie! Aqui é a Luana Diniz! ☕︎ ❤︎
 
-- ⋆ Design Gráfico
-- ⋆ Dev em construção 
-- ⋆ Ela/Dela
+- Design Gráfico
+- Dev em construção 
+- Ela/Dela
 
 <picture>
   <source
