@@ -1,5 +1,6 @@
-## Oie! Aqui é a Luana Diniz! ♡ . ݁₊ ⊹ . ݁˖ . ݁
+## Oie! Aqui é a Luana Diniz! ≽ܫ≼
 
+˖⁺‧₊˚♡˚₊‧⁺˖
 - Design Gráfico
 - Dev em construção 
 - Ela/Dela
