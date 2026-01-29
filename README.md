@@ -1,4 +1,4 @@
-## Oie! Aqui é a Luana Diniz! ≽ܫ≼
+## Oie! Aqui é a Luana Diniz!
 
 ˖⁺‧₊˚♡˚₊‧⁺˖
 - Design Gráfico
