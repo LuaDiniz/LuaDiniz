@@ -15,6 +15,3 @@
     srcset="https://github-readme-stats.vercel.app/api?username=LuaDiniz&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  
-</picture>
