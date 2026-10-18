@@ -19,3 +19,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,html,css,github,vscode,figma,ps,ai,ae" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true" />
+</p>
