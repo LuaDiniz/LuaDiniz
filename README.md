@@ -1,16 +1,16 @@
 ## Oie! Eu sou a Luana Diniz!
 
 <h4 align="left">
-🖍️ Designer Gráfica
+🖍️ Designer Gráfica;
 </h4>
 
-<h3 align="center">
-👩🏻‍💻 Desenvolvedora em construção
+<h4 align="left">
+👩🏻‍💻 Desenvolvedora em construção;
 </h3>
 
-<h3 align="center">
-🎨 Compartilhando minha jornada, erros e conquistas.
-</h3>
+<h4 align="left">
+🎨 Compartilhando minha jornada, erros e conquistas!
+</h4>
 
 <picture>
   <source
