@@ -1,9 +1,8 @@
-## Oie! Aqui é a Luana Diniz!
+## Oie! Eu sou a Luana Diniz!
 
-˖⁺‧₊˚♡˚₊‧⁺˖
-- Design Gráfico
-- Dev em construção 
-- Ela/Dela
+🖍️ Design Gráfico;
+👩🏻‍💻 Dev em construção;
+🎨 Compartilhando meus erros e acertos!
 
 <picture>
   <source
@@ -16,10 +15,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
   />
 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,html,css,github,vscode,figma,ps,ai,ae" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuaDiniz&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
-</p>
