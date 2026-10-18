@@ -16,6 +16,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
   />
 
-<<p align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs,html,css,github,vscode,figma,ps,ai,ae" />
 </p>
