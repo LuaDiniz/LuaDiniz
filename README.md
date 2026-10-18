@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LuaDiniz&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
