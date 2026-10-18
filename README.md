@@ -1,8 +1,8 @@
 ## Oie! Eu sou a Luana Diniz!
 
-<h3 align="center">
+<h2 align="left">
 🖍️ Designer Gráfica
-</h3>
+</h2>
 
 <h3 align="center">
 👩🏻‍💻 Desenvolvedora em construção
