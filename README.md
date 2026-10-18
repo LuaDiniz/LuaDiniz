@@ -1,14 +1,14 @@
 ## Oie! Eu sou a Luana Diniz!
 
-🖍️ Design Gráfico;
-👩🏻‍💻 Dev em construção;
-🎨 Compartilhando meus erros e acertos!
+-🖍️ Design Gráfico;
+-👩🏻‍💻 Dev em construção;
+-🎨 Compartilhando meus erros e acertos!
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LuaDiniz&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    title_color: 2f80ed
+    title_color: #8C2E5C
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LuaDiniz&show_icons=true"
