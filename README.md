@@ -15,3 +15,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=LuaDiniz&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
   />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,git,github,vscode,mysql,figma,ps,ae" />
+</p>
