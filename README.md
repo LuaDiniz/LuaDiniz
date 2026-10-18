@@ -17,5 +17,5 @@
   />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,html,css,git,github,vscode,mysql,figma,ps,ae" />
+  <img src="https://skillicons.dev/icons?i=c#,html,css,git,github,vscode,figma,ps,ai,ae" />
 </p>
