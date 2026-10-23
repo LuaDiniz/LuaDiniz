@@ -2,13 +2,7 @@
 
 <h4 align="left">
 🖍️ Designer Gráfica;
-</h4>
-
-<h4 align="left">
 👩🏻‍💻 Desenvolvedora em construção;
-</h3>
-
-<h4 align="left">
 🎨 Compartilhando minha jornada, erros e conquistas!
 </h4>
 
